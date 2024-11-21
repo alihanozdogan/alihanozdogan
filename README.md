@@ -15,8 +15,5 @@ Talk to me about:
 - Creating scalable cloud architecture using **Azure**.
 - Solving Data structure and algorithm questions in **Java**.
 ## Hello World!! 🤔
-- 🎯 Portfolio site: [Portfolio](https://alihanozdogan.github.io/portfolio/index.html).
-
-![Alihan's github stats](https://github-readme-stats.vercel.app/api?username=alihanozdogan&hide=["issues"]&show_icons=true)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=alihanozdogan.alihanozdogan)
